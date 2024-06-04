@@ -1,0 +1,3 @@
+I used the test data
+
+encrypted firmware : D-Link DIR867A1_FW100B07.BIN, DIR882A1_FW110B02.bin
